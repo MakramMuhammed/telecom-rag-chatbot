@@ -1,0 +1,17 @@
+# Credentials & Environment Settings
+.env
+
+# Python Caches & Virtual Envs
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Local Vector Databases & Runtime Storage
+chroma_store/
+
+# Raw Sensitive Customer/Company Data (Optional but recommended)
+# data/faq.csv
+# data/telecom_guide.pdf
+# data/tickets.db
